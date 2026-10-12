@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_nc">Шумоподавление</string>
+    <string name="title_amb">Окружающий звук</string>
+    <string name="title_off">Выключено</string>
+    <string name="title_none">Нет связи</string>
+    <string name="seg_off">Выкл</string>
+    <string name="w_nc">Шумодав</string>
+    <string name="w_amb">Окружающий</string>
+    <string name="bat_case">Кейс</string>
+    <string name="label_mode">Режим</string>
+    <string name="label_level">Уровень окружающего звука</string>
+    <string name="btn_start">Запустить</string>
+    <string name="btn_stop">Остановить</string>
+    <string name="log_title">Лог</string>
+    <string name="status_on">подключено</string>
+    <string name="status_off">не подключено</string>
+    <string name="notif_connecting">Подключение…</string>
+    <string name="chan_name">Статус наушников</string>
+</resources>

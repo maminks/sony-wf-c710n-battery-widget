@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_nc">Noise cancelling</string>
+    <string name="title_amb">Ambient sound</string>
+    <string name="title_off">Off</string>
+    <string name="title_none">Disconnected</string>
+    <string name="seg_off">Off</string>
+    <string name="w_nc">ANC</string>
+    <string name="w_amb">Ambient</string>
+    <string name="bat_case">Case</string>
+    <string name="label_mode">Mode</string>
+    <string name="label_level">Ambient sound level</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="log_title">Log</string>
+    <string name="status_on">connected</string>
+    <string name="status_off">not connected</string>
+    <string name="notif_connecting">Connecting…</string>
+    <string name="chan_name">Earbuds status</string>
+</resources>
