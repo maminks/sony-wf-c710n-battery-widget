@@ -58,4 +58,3 @@ apksigner sign --ks "$KEYSTORE" --ks-pass pass:"$KS_PASS" --key-pass pass:"$KS_P
     --out "$OUT/BudsWidget.apk" "$OUT/aligned.apk"
 apksigner verify "$OUT/BudsWidget.apk"
 echo "done: $OUT/BudsWidget.apk"
- 
