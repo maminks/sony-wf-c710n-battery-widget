@@ -1,4 +1,4 @@
-# sony wf c710n battery widget
+# sony wf-c710n battery widget
 Sony WF-C710N battery and modes widget
 
 [English](#english) | [Русский](#русский)
